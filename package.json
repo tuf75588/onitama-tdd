@@ -1,0 +1,26 @@
+{
+  "name": "Onitama-TDD",
+  "version": "1.0.0",
+  "description": "- [x] What is a test? - [x] What is TDD? - [x] What is a test runner? - [ ] What is an assertion? - [ ] What is a unit test?   - Given / when / then   - Arrange / act / assert - [ ] Setup program with Jest",
+  "main": "basics.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuf75588/onitama-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuf75588/onitama-tdd/issues"
+  },
+  "homepage": "https://github.com/tuf75588/onitama-tdd#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "dependencies": {}
+}
